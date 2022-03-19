@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I'm student and study hard!
+title: I'm student like you!
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
